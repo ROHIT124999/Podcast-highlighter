@@ -58,22 +58,3 @@ Edit
 cd frontend
 npm start
 The application will be available at http://localhost:3000.
-
-Project Structure 📂
-pgsql
-Copy
-Edit
-📂 podcast-highlighter
- ┣ 📂 backend
- ┃ ┣ 📜 app.py
- ┃ ┣ 📜 requirements.txt
- ┣ 📂 frontend
- ┃ ┣ 📂 src
- ┃ ┃ ┣ 📂 components
- ┃ ┃ ┃ ┣ 📜 FileUpload.js
- ┃ ┃ ┃ ┣ 📜 QueryForm.js
- ┃ ┃ ┃ ┗ 📜 TranscriptView.js
- ┃ ┣ 📜 App.js
- ┃ ┗ 📜 index.css
- ┣ 📜 README.md
- ┗ 📜 package.json
